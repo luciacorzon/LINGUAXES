@@ -1,0 +1,30 @@
+<trip>
+	<traveller>
+		<name>Lucía</name>
+		<surname>Corzón</surname>
+	</traveller>
+	<traveller>
+		<name>Manuel</name>
+		<surname>González</surname>
+	</traveller>
+	<date>
+		<beggining>17/05/2024</beggining>
+		<end>25/05/2024</end>
+	</date>
+	<citydeparture>
+		Santiago de Compostela
+	</citydeparture>
+	<destination>
+		<cityname>París</cityname>
+		<hotelname>Four Seasons Hotel</hotelname>
+		<nights>4</nights>
+	</destination>
+	<destination>
+		<cityname>Burdeos</cityname>
+		<hotelname><![CDATA[Hilton&Jolly Hotel]]></hotelname>
+		<nights>&lt;4&gt;</nights>
+	</destination>
+	<price>
+		700 euros
+	</price>
+</trip>

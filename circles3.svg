@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400px" height="400px">
+ <title>SVG scratch pad</title>
+  <g stroke="#e63d1f" stroke-width="10px" fill="#f5afa3">
+   <desc>Border</desc>
+   <rect x="0" y="0" width="400" height="400" />
+  </g>
+  <g stroke="#0095b6" stroke-width="2px" fill="#FF6347" >
+   <desc>Circles</desc>
+   <circle cx="200" cy="20" r="10" />
+   <circle cx="200" cy="110" r="10" />
+   <circle cx="200" cy="200" r="10" />
+   <circle cx="200" cy="290" r="10" />
+   <circle cx="200" cy="380" r="10" />
+  </g>
+</svg>

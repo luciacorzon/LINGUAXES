@@ -1,0 +1,36 @@
+{
+	"bookstore": {
+		"books":[
+		
+			{
+				"title":"Cien años de soledad",
+				"author":"Gabriel García Márquez",
+				"ISBN": "12345678",
+				"publishedDate":1967,
+				"price":"15 EUR",
+				"categories":"Novela",
+				"availability": "In Stock"
+			},
+			{
+				"title":"Drácula",
+				"author":"Bram Stoker",
+				"ISBN": "287654321",
+				"publishedDate":1897,
+				"price":"12 EUR",
+				"categories":"Novela",
+				"availability": "In Stock"
+			},
+			{
+				"title":"La dama de blanco",
+				"author":"Wilkie Collins",
+				"ISBN": "86754123",
+				"publishedDate":1859,
+				"price":"20 EUR",
+				"categories":"Novela",
+				"availability": "Out of stock"
+			}
+		],
+		"categories": ["Novela", "Poesía", "Ficción", "Thriller", "Policíaca"]
+	}
+	
+}

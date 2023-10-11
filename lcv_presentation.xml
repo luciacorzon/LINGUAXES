@@ -1,0 +1,28 @@
+
+	<aboutme>
+		<name>
+			<firstname>Lucía</firstname>
+			<surname>Corzón</surname>
+			<surname>Villar</surname>
+		</name>
+		<positives>
+			<positive>Kindness</positive>
+			<positive>Determination</positive>
+			<positive>Easy-going attitude</positive>
+		</positives>
+		<negatives>
+			<negative>Shyness</negative>
+			<negative>Nervousness</negative>
+			<negative>Indecision</negative>
+		</negatives>
+		<favseries>Skins</favseries>
+		<lastbook>Tamaris, by George Sand</lastbook>
+		<dream>To see the northern lights</dream>
+		<favsinger>Jeanette</favsinger>
+		<hobbies>
+			<hobby>Reading</hobby>
+			<hobby>Spending time in nature</hobby>
+		</hobbies>
+		<englishlevel>No certificate yet</englishlevel>
+		<csbackground>First time studying it</csbackground>
+	</aboutme>
